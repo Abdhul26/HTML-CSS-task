@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.center {
+  font-weight: bolder;
+  text-align: center;
+  justify-content: center;
+}
+h6 {
+  font-weight: bolder;
+  text-align: left;
+  padding: 20px;
+}
+.container1 {
+  display: flex;
+  text-align: center;
+  padding: 40px;
+  background-color: gray;
+}
+.container2 {
+  display: flex;
+  text-align: center;
+  width: fit-content;
+  padding: 5px;
+  background-color: white;
+}
+
+.insidecontainer {
+  display: flex;
+  background-color: rgb(233, 181, 40);
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  width: auto;
+}
